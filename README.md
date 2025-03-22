@@ -12,7 +12,7 @@ Cela arrive parce que l'application n'est pas encore reconnue par Microsoft. Cep
 Vous pouvez télécharger nos logiciels en toute confiance via les liens ci-dessous :  
 
 # Lysia Editor  
-**[View full License](https://github.com/tariteur/patron-creator-windows/blob/main/LICENCE)**
+**[View full License](https://github.com/tariteur/patron-editor-windows/blob/main/LICENCE)**
 
 [![Télécharger Lysia Editor](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Lysia%20Editor.exe-blue?style=for-the-badge&logo=windows)](https://github.com/tariteur/patron-editor-windows/releases/download/v1.0.3/LysiaEditor-Setup-1.0.3.exe)  
 [![Télécharger Lysia Creator](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Lysia%20Creator.exe-gree?style=for-the-badge&logo=windows)](https://github.com/tariteur/patron-creator-windows/releases/download/v1.0.5/LysiaCreator-Setup-1.0.5.exe)  
